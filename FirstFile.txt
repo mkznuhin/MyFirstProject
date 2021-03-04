@@ -1,0 +1,4 @@
+
+git status --> See the status of our working directory
+git init --> Make current directory as a git repository
+git add <File> --> Add file to git
